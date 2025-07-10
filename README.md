@@ -30,5 +30,5 @@ You can find a short PDF summary of all insights in `ds_report.pdf`.
 
 **Deepthi R**  
 Aspiring Data Analyst 
-https://github.com/DeepthiR2405/bitcoin-sentiment-analysis
+https://github.com/DeepthiR2405/ds_Deepthi.R
 
